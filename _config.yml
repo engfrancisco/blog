@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:               'engFrancisco'
 description:         'Blog em engenharia e afins'
-author:              '© 2020 Francisco José. Made with Jekyll'
+author:              'Francisco José. Criado com Jekyll. 2020'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
