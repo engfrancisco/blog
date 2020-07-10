@@ -24,12 +24,6 @@ title:               'engFrancisco'
 description:         'Blog em engenharia e afins'
 author:              'Francisco José. Criado com Jekyll. 2020'
 
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: rdzjr1997
-
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
