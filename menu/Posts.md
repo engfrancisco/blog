@@ -2,8 +2,8 @@
 layout: page
 title: Posts
 ---
-<ul class="Posts">
-  {% for post in site.Posts %}
+<ul class="posts">
+  {% for post in site.posts %}
 
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
