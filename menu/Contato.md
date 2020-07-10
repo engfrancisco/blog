@@ -3,4 +3,4 @@ layout: page
 title: Contato
 ---
 
-Caso queira falar comigo, tenha alguma dúvida ou sugestão, preencha o formulário abaixo: (Colocar formulário).
+Caso queira falar comigo, tenha alguma dúvida ou sugestão, envie-me um [email](mailto:francisco.mec.eng@gmail.com).
