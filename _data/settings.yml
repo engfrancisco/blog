@@ -14,7 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/engfrancisco'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://www.instagram.com/rdsjunio/?hl=pt-br'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/franciscoojose/'}
 - {icon: 'envelope', link: 'mailto:francisco.mec.eng@gmail.com'}
 #- {icon: 'rss-square', link: '/feed.xml'}
