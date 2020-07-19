@@ -22,8 +22,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Próxima página'
-  previous_page: 'Página anterior'
+  next_page: 'Posts recentes'
+  previous_page: 'Posts antigos'
 
 sharing_button_prompt: 'Compartilhe!'
 
