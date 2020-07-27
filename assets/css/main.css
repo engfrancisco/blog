@@ -134,7 +134,6 @@ hr {
   margin-bottom: -11.5%;
 }
 
-background-color:black;
 /*
   Post
 */
@@ -235,6 +234,7 @@ background-color:black;
 .menu {
   padding-top: 0.5rem;
   display: block;
+background-color:black;
 }
 
 .menu-content {
