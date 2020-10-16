@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+usemathjax: true
 title: "Controle passivo de vibrações: absorvedores dinâmicos"
 author: "Francisco José"
 categories: journal
@@ -44,10 +45,10 @@ image: capa_procedimentos.jpg
 <p align="justify"> Observa-se que o sistema primário, constituído por uma <a href="https://en.wikipedia.org/wiki/Optical_table"> mesa óptica, </a> possui um <a href="https://en.wikipedia.org/wiki/Harmonic_oscillator#Driven_harmonic_oscillators"> forçamento harmônico </a>, representado por F(t). Assim, o absorvedor protege o sistema primário das vibrações excessivas durante o regime permanente do sistema.
 </p>
 
-<p align="justify"> Aplicando-se a <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"> segunda lei de Newton </a> no sistema da figura acima, obtém-se a equação de movimento do sistema, na forma matricial:
+<p align="justify"> Aplicando-se a <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"> segunda lei de Newton </a> no sistema da figura acima, obtém-se a equação de movimento do sistema, na forma matricial (uma abordagem matemática formal pode ser encontrada nas referências ao final do texto):
 </p>
 
-
+$$E=mc^2$$
 
 
 
