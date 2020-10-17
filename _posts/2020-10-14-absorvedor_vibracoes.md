@@ -48,8 +48,40 @@ image: capa_procedimentos.jpg
 <p align="justify"> Aplicando-se a <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"> segunda lei de Newton </a> no sistema da figura acima, obtém-se a equação de movimento do sistema, na forma matricial (uma abordagem matemática formal pode ser encontrada nas referências ao final do texto):
 </p>
 
-$$E=mc^2$$
+Colocar equação matricial
 
+<p align="justify"> Onde: <b>m</b> é a massa do sistema, <b>m<sub>a</sub></b> é a massa do absorvedor, <b>k</b> é a rigidez do sistema primário, <b>k<sub>a</sub></b> é a rigidez do absorvedor, <b>x</b> é o deslocamento do sistema primário, <b>x<sub>a</sub></b> o deslocamento do absorvedor, <b>F<sub>0</sub></b> é a amplitude do forçamento harmônico que ocorre com frequência omega.
+</p>
+
+<p align="justify"> Como deseja-se obter as amplitudes dos sistemas primário e secundário em regime permamente (referenciar), pode-se admitir que a resposta do sistema possui a mesma forma do forçamento pois o sistema é linear. Assim, considera-se para os deslocamentos:
+</p>
+
+Colocar equação dos deslocamentos
+
+<p align="justify"> Substitui-se essas respostas na equação matricial (realizando-se as devidas derivações), obtém-se:
+</p>
+
+Colocar equação matricial
+
+<p align="justify"> Para se obter as amplitudes, deve-se calcular <b>X</b> e <b>X<sub>a</sub></b>. Para isso, utiliza-se a inversão de matrizes e isola-se as variáveis de interesse (a boa e velha Álbegra Linear nunca decepciona). Assim, obtém-se as amplitudes para o regime permamente do sistema primário e do absorvedor:
+</p>
+
+Colocar amplitudes
+
+<p align="justify"> Observando-se as equações, percebe-se que para eliminar as amplitudes devido à vibração no sistema primário, deve-se igualar o termo entre parênteses no numerador de <b>X</b> à 0. Assim, pode-se definir os valores para a rigidez e a massa do absorvedor.
+</p>
+
+Equação da freq natural
+
+<p align="justify"> É possível realizar algumas observações nesse ponto. Nota-se que "tirando a raiz quadrada" de omega, obtém-se a frequência natural do absorvedor isolado. Ou seja, a frequência natural do absorvedor antes de ser acoplado ao sistema é igual à frequência na qual a ressonância ocorre. Assim, a relação entre a frequência natural do sistema primário isolado e a frequência natural do absorvedor isolado deve ser igual à 1.
+</p>
+
+<p align="justify"> Embora isso possa soar estranho, está correto. O absorvedor é dimensionado de forma a atuar em uma frequência específica, que é a frequência que ocasiona problemas ao sistema. É por esse motivo que se diz que o absorvedor é um sistema sintonizado. Ou seja, ele irá exercer sua função somente na frequência para a qual ele foi projeto. Na verdade, há um pequeno intervalo de frequência no qual ele pode ser utilizado com segurança.
+</p>
+
+<p align="justify"> Outro ponto a se destacar é que a introdução de uma "nova massa" no sistema implica a introdução de um grau de liberdade. Assim, o sistema, que possuía apenas um grau de liberdade, passa a ter dois. Portanto, o fenômeno da ressonância pode ocorrer em dois valores diferentes de frequência, as frequências naturais do sistema acoplado. Novamente, isso pode soar estranho, pois antes apenas um pico de ressonânica já causava problemas ao sistema e agora há dois picos distintos. Contudo, essas novas frequências de ressonância são diferentes da inicial, não oferecendo perigo imediato.
+	
+</p>
 
 
 
