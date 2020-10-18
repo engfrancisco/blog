@@ -40,7 +40,7 @@ image: capa_procedimentos.jpg
 
 <div style='position:relative; padding-bottom:calc(124.00% + 44px)'><iframe src='https://gfycat.com/ifr/YellowishImpressionableHyena' frameborder='0' scrolling='no' width='100%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/yellowishimpressionablehyena">via Gfycat</a></p>
 
-<p align="justify"> Observa-se que o sistema primário, constituído por uma <a href="https://en.wikipedia.org/wiki/Optical_table"> mesa óptica, </a> possui um <a href="https://en.wikipedia.org/wiki/Harmonic_oscillator#Driven_harmonic_oscillators"> forçamento harmônico</a>, representado por F(t). Assim, o absorvedor protege o sistema primário das vibrações excessivas durante o regime permanente do sistema.
+<p align="justify"> Observa-se que o sistema primário, constituído por uma <a href="https://en.wikipedia.org/wiki/Optical_table">mesa óptica</a>, possui um <a href="https://en.wikipedia.org/wiki/Harmonic_oscillator#Driven_harmonic_oscillators"> forçamento harmônico</a>, representado por F(t). Assim, o absorvedor protege o sistema primário das vibrações excessivas durante o regime permanente do sistema.
 </p>
 
 <p align="justify"> Aplicando-se a <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"> segunda lei de Newton </a> no sistema da figura acima, obtém-se a equação de movimento do sistema, na forma matricial (uma abordagem matemática formal pode ser encontrada nas referências ao final do texto):
@@ -48,7 +48,10 @@ image: capa_procedimentos.jpg
 
 $$
 \begin{equation}
-\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x  \\ x_a \end{bmatrix}
+\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x  \\ x_a \end{bmatrix} \end{equation}
+
+$$
+\begin{equation}
  = \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
 \end{equation}
 $$
@@ -75,7 +78,13 @@ $$
 
 $$
 \begin{equation}
-\begin{bmatrix} k + k_a - m \Omega^{2} & -k_a \\ -k_a & k_a - m_a \Omega^{2} \end{bmatrix} \begin{bmatrix} X \\ X_a \end{bmatrix} sin(\Omega t) = \begin{bmatrix} F_0 \\ 0 \end{bmatrix} sin(\Omega t)
+\begin{bmatrix} k + k_a - m \Omega^{2} & -k_a \\ -k_a & k_a - m_a \Omega^{2} \end{bmatrix} \begin{bmatrix} X \\ X_a \end{bmatrix} sin(\Omega t) 
+\end{equation}
+$$
+
+$$
+\begin{equation}
+= \begin{bmatrix} F_0 \\ 0 \end{bmatrix} sin(\Omega t)
 \end{equation}
 $$
 
@@ -262,10 +271,13 @@ $$
 
 $$
 \begin{equation}
-\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} c & 0 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} \dot{x} \\ \dot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x \\ x_a \end{bmatrix}\end{equation}
+\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} c & 0 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} \dot{x} \\ \dot{x_a} \end{bmatrix}
+\end{equation}
 $$
+
 $$
- \begin{equation}= \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
+\begin{equation}
+ + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x \\ x_a \end{bmatrix} = \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
 \end{equation}
 $$
 
