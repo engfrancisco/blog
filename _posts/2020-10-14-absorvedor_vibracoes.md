@@ -201,6 +201,11 @@ $$
 i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
 $$
 
+$$
+\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x  \\ x_a \end{bmatrix}
+ = \begin{bmatrix} F_0 sin(\omega t) \\ 0 \end{bmatrix}
+$$
+
 
 </body>
 </html>
