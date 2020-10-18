@@ -16,7 +16,7 @@ image: capa_procedimentos.jpg
 <p align="justify"> Bem, para um sistema dessa natureza, pode-se projetar uma nova base, utilizando-se coxins, de maneira a alterar a resposta dinâmica geral do sistema. Esses coxins proporcionariam uma alteração na rigidez total, que reduziria a amplitude da resposta vibratória. É possível observar que nesse caso há a possibilidade de alterar os parâmetros do sistema isoladamente (como rigidez, amortecimento e até mesmo a massa). Entretanto, nem sempre poderemos alterar essas características do sistema. Então, como poderíamos proceder nesses outros casos?
 </p>
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/jPAdK8Nfzzwt2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/celebs-muppets-elmo-jPAdK8Nfzzwt2">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:91%;position:relative;"><iframe src="https://giphy.com/embed/y65VoOlimZaus" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/idk-shrug-power-rangers-y65VoOlimZaus">via GIPHY</a></p>
 
 <p align="justify"> É nesse contexto que se aplica um conceito bastante interessante conhecido como <b>absorvedores dinâmicos!</b>
 </p>
