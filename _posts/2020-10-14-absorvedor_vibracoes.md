@@ -38,9 +38,9 @@ image: capa_procedimentos.jpg
 
 <p align="justify"> O gif abaixo talvez torne isso mais intuitivo:</p>	
 
-<div style='position:relative; padding-bottom:calc(124.00% + 44px)'><iframe src='https://gfycat.com/ifr/YellowishImpressionableHyena' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/yellowishimpressionablehyena">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(124.00% + 44px)'><iframe src='https://gfycat.com/ifr/YellowishImpressionableHyena' frameborder='0' scrolling='no' width='100%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/yellowishimpressionablehyena">via Gfycat</a></p>
 
-<p align="justify"> Observa-se que o sistema primário, constituído por uma <a href="https://en.wikipedia.org/wiki/Optical_table"> mesa óptica, </a> possui um <a href="https://en.wikipedia.org/wiki/Harmonic_oscillator#Driven_harmonic_oscillators"> forçamento harmônico </a>, representado por F(t). Assim, o absorvedor protege o sistema primário das vibrações excessivas durante o regime permanente do sistema.
+<p align="justify"> Observa-se que o sistema primário, constituído por uma <a href="https://en.wikipedia.org/wiki/Optical_table"> mesa óptica, </a> possui um <a href="https://en.wikipedia.org/wiki/Harmonic_oscillator#Driven_harmonic_oscillators"> forçamento harmônico</a>, representado por F(t). Assim, o absorvedor protege o sistema primário das vibrações excessivas durante o regime permanente do sistema.
 </p>
 
 <p align="justify"> Aplicando-se a <a href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton's_second_law"> segunda lei de Newton </a> no sistema da figura acima, obtém-se a equação de movimento do sistema, na forma matricial (uma abordagem matemática formal pode ser encontrada nas referências ao final do texto):
@@ -53,7 +53,7 @@ $$
 \end{equation}
 $$
 
-<p align="justify"> Onde: <b>m</b> é a massa do sistema primário, <b>m<sub>a</sub></b> é a massa do absorvedor, <b>k</b> é a rigidez do sistema primário, <b>k<sub>a</sub></b> é a rigidez do absorvedor, <b>x</b> é o deslocamento do sistema primário, <b>x<sub>a</sub></b> o deslocamento do absorvedor, <b>F<sub>0</sub></b> é a amplitude do forçamento harmônico que ocorre com frequência &Omega.
+<p align="justify"> Onde: <b>m</b> é a massa do sistema primário, <b>m<sub>a</sub></b> é a massa do absorvedor, <b>k</b> é a rigidez do sistema primário, <b>k<sub>a</sub></b> é a rigidez do absorvedor, <b>x</b> é o deslocamento do sistema primário, <b>x<sub>a</sub></b> o deslocamento do absorvedor, <b>F<sub>0</sub></b> é a amplitude do forçamento harmônico que ocorre com frequência &Omega;.
 </p>
 
 <p align="justify"> Como deseja-se obter as amplitudes dos sistemas primário e secundário, pode-se admitir que a resposta do sistema possui a mesma forma do forçamento pois o sistema é linear. Assim, considera-se para os deslocamentos:
@@ -63,6 +63,8 @@ $$
 \begin{equation}
 x(t) = X sin(\Omega t)
 \end{equation}
+$$
+$$
 \begin{equation}
 x_{a}(t) = X_{a} sin(\Omega t)
 \end{equation}
@@ -76,9 +78,8 @@ $$
 \begin{bmatrix} k + k_a - m \Omega^{2} & -k_a \\ -k_a & k_a - m_a \Omega^{2} \end{bmatrix} \begin{bmatrix} X \\ X_a \end{bmatrix} sin(\Omega t) = \begin{bmatrix} F_0 \\ 0 \end{bmatrix} sin(\Omega t)
 \end{equation}
 $$
-Colocar equação matricial
 
-<p align="justify"> Para se obter as amplitudes, deve-se calcular <b>X</b> e <b>X<sub>a</sub></b>. Para isso, utiliza-se a inversão de matrizes e isola-se as variáveis de interesse (a boa e velha Álbegra Linear nunca decepciona). Assim, obtém-se as amplitudes para o regime permamente do sistema primário e do absorvedor:
+<p align="justify"> Para se obter as amplitudes, deve-se calcular <b>X</b> e <b>X<sub>a</sub></b>. Para isso, utiliza-se a inversão de matrizes e isola-se as variáveis de interesse (a boa e velha Álgebra Linear nunca decepciona). Assim, obtém-se as amplitudes para o regime permamente do sistema primário e do absorvedor:
 </p>
 
 $$
@@ -132,7 +133,7 @@ $$
 \end{equation}
 $$
 
-<p align="justify"> Sendo: <b>&mu</b> a razão entre as massas do absorvedor e do sistema primário, <b>&omega<sub>p</sub></b> a frequência natural do sistema primário isolado e <b>&omega<sub>a</sub></b> a frequência natural do absorvedor isolado.	
+<p align="justify"> Sendo: <b>&mu;</b> a razão entre as massas do absorvedor e do sistema primário, <b>&omega;<sub>p</sub></b> a frequência natural do sistema primário isolado e <b>&omega;<sub>a</sub></b> a frequência natural do absorvedor isolado.	
 </p>
 
 <p align="justify"> Assim, as amplitudes do sistema podem ser reescritas da seguinte forma:
@@ -262,6 +263,9 @@ $$
 $$
 \begin{equation}
 \begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} c & 0 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} \dot{x} \\ \dot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x \\ x_a \end{bmatrix}
+$$
+
+$$
  = \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
 \end{equation}
 $$
@@ -298,7 +302,8 @@ $$
 <p align="justify"> Como exemplo real da aplicação do conceito de absorvedores de vibração, destaco o arranha-céu <a href="https://en.wikipedia.org/wiki/Taipei_101#Structural_design">Taipei 101</a>. Abaixo um vídeo sobre o seu sistema em ação.
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LtunuAL9Gtc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtunuAL9Gtc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 </body>
 </html>
