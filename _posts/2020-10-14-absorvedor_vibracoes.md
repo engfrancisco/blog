@@ -176,6 +176,10 @@ Equação matricial sistema amortecido
 
 Sistema de equação
 
+$$
+i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
+$$
+
 <p align="justify"> É notório que o sistema é acoplado, ou seja, as respostas dos sistemas primário e secundário estão relacionadas. Para resolver isso, pode-se utilizar o conceito de <a href="https://en.wikipedia.org/wiki/Modal_matrix#:~:text=In%20linear%20algebra%2C%20the%20modal,utilized%20in%20the%20similarity%20transformation"> matriz modal</a> e coordenadas normais. Basicamente essas ferramentas são utilizadas para desacoplar o sistema e, então, resolve-los separadamente. Isso é possível devido à característica <a href="https://en.wikipedia.org/wiki/Linear_system">linear</a> do sistema.
 </p>
 
@@ -197,14 +201,11 @@ Sistema de equação
 <p align="justify"> Como exemplo real da aplicação do conceito de absorvedores de vibração, destaco o arranha-céu <a href="https://en.wikipedia.org/wiki/Taipei_101#Structural_design">Taipei 101</a>. Abaixo um vídeo sobre o seu sistema em ação.
 </p>
 
-$$
-i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
-$$
+
 
 
 </body>
 </html>
 
-<div style="width:100%;height:0;padding-bottom:110%;position:relative;"><iframe src="https://en.wikipedia.org/wiki/Effective_mass_(spring%E2%80%93mass_system)#/media/File:Simple_harmonic_oscillator.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sherlock-holmes-RaLIOPl8MLyWA">via GIPHY</a></p>
 
 <p align="justify">Referências:</p>
