@@ -262,11 +262,10 @@ $$
 
 $$
 \begin{equation}
-\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} c & 0 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} \dot{x} \\ \dot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x \\ x_a \end{bmatrix}
+\begin{bmatrix} m & 0 \\ 0 & m_a \end{bmatrix} \begin{bmatrix} \ddot{x} \\ \ddot{x_a} \end{bmatrix} + \begin{bmatrix} c & 0 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} \dot{x} \\ \dot{x_a} \end{bmatrix} + \begin{bmatrix} k + k_a & -k_a \\ -k_a & k_a \end{bmatrix} \begin{bmatrix} x \\ x_a \end{bmatrix}\end{equation}
 $$
-
 $$
- = \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
+ \begin{equation}= \begin{bmatrix} F_0 sin(\Omega t) \\ 0 \end{bmatrix}
 \end{equation}
 $$
 
