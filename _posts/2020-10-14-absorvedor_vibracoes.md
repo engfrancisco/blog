@@ -302,7 +302,7 @@ $$
 </p>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LtunuAL9Gtc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="300" height="315" src="https://www.youtube.com/embed/LtunuAL9Gtc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 </body>
 </html>
