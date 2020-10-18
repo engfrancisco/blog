@@ -210,6 +210,4 @@ $$
 </body>
 </html>
 
-<div style="width:100%;height:0;padding-bottom:110%;position:relative;"><iframe src="https://en.wikipedia.org/wiki/Effective_mass_(spring%E2%80%93mass_system)#/media/File:Simple_harmonic_oscillator.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sherlock-holmes-RaLIOPl8MLyWA">via GIPHY</a></p>
-
 <p align="justify">Referências:</p>
