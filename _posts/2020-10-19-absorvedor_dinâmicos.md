@@ -321,22 +321,23 @@ $$
 </html>
 
 <p align="justify"><b>Referências:</b>
-CHAPRA, S. C.; CANALE, R. P. Métodos Numéricos para Engenharia-7ª Edição. [S.l.]: McGraw Hill
-Brasil, 2016.
 
-CLOUGH, R. W.; PENZIEN, J. Dynamics of structures. berkeley. CA: Computers and Structures, 2003.
+<p>CHAPRA, S. C.; CANALE, R. P. Métodos Numéricos para Engenharia-7ª Edição. [S.l.]: McGraw Hill
+Brasil, 2016.</p>
 
-DANIEL, J. I. et al. Engineering vibration. INMAN, Pearson Education, Prentice Hall,, p. 51, 2001.
+<p>CLOUGH, R. W.; PENZIEN, J. Dynamics of structures. berkeley. CA: Computers and Structures, 2003.</p>
 
-JR, W. W.; TIMOSHENKO, S. P.; YOUNG, D. H. Vibration problems in engineering. [S.l.]: John Wiley &
-Sons, 1990.
+<p>DANIEL, J. I. et al. Engineering vibration. INMAN, Pearson Education, Prentice Hall,, p. 51, 2001.</p>
 
-KATSUHIKO, O. Engenharia de controle moderno. KATSUHIKO Ogata, 5th Ed. 801p, 2011.
+<p>JR, W. W.; TIMOSHENKO, S. P.; YOUNG, D. H. Vibration problems in engineering. [S.l.]: John Wiley &<
+Sons, 1990.</p>
 
-MEIROVITCH, L. Elements of vibration analysis. [S.l.]: McGraw-Hill Science, Engineering &
-Mathematics, 1975.
+<p>KATSUHIKO, O. Engenharia de controle moderno. KATSUHIKO Ogata, 5th Ed. 801p, 2011.</p>
 
-RAO, S. S. Vibrações mecânicas . [S.l.]: Pearson Educación, 2009.
+<p>MEIROVITCH, L. Elements of vibration analysis. [S.l.]: McGraw-Hill Science, Engineering &
+Mathematics, 1975.</p>
 
-SAVI, M. A.; PAULA, A. S. de. Vibrações mecânicas. Rio de Janeiro: LTC, p. 22, 2017.
+<p>RAO, S. S. Vibrações mecânicas . [S.l.]: Pearson Educación, 2009.</p>
+
+<p>SAVI, M. A.; PAULA, A. S. de. Vibrações mecânicas. Rio de Janeiro: LTC, p. 22, 2017.</p>
 </p>
