@@ -34,7 +34,7 @@ image: capa_velocidade_critica.png
 </p>
 
 <p align="center">
-<iframe width="360" height="115" src="https://www.youtube.com/embed/HeKDZJt8Ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="300" height="315" src="https://www.youtube.com/embed/HeKDZJt8Ihc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p align="justify"> Nota-se, então, que as forças inerciais que agem no centro de massa caracterizarão um forçamento no sistema e, como esse sistema possui rotação constante, o forçamento possuirá natureza harmônica. Como dito anteriormente, caso a frequência desse forçamento seja igual à frequência natural do sistema, o eixo estará operando em sua velocidade crítica e ocorrerá ressonância.
 </p>
