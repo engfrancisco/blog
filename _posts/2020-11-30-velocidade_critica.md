@@ -164,7 +164,13 @@ $$
 
 $$
 \begin{equation}
-\omega_{critico} = \sqrt{\frac{k}{m}} = \sqrt{\frac{1,4 \times 10^7}{55}} = 504,5  [rad/s] = 4817,6 [rpm]
+\omega_{critico} = \sqrt{\frac{k}{m}} = \sqrt{\frac{1,4 \times 10^7}{55}} = 504,5  [rad/s]
+\end{equation}
+$$
+
+$$
+\begin{equation}
+ = 4817,6 [rpm]
 \end{equation}
 $$
 
@@ -182,8 +188,14 @@ $$
 
 $$
 \begin{equation}
-X = \frac{(0,001)(1,25)^2}{\sqrt{[1 - (1,25)^2]^2 + [2(0,05)(1,25)]^2}} \approx 2,7 [mm]
+X = \frac{(0,001)(1,25)^2}{\sqrt{[1 - (1,25)^2]^2 + [2(0,05)(1,25)]^2}} 
 \end{equation} 
+$$
+
+$$
+\begin{equation}
+\approx 2,7 [mm]
+\end{equation}
 $$
 
 <p align="justify"> Então, para verificar o valor da amplitude máxima, basta utilizar r = 1:
