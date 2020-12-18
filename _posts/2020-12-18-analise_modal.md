@@ -2,7 +2,7 @@
 layout: post
 comments: true
 usemathjax: true
-title: "Autovetorese Autovalores em vibração mecânica"
+title: "Autovetores e Autovalores em vibração mecânica"
 author: "Francisco José"
 categories: journal
 tags: [documentation,sample]
