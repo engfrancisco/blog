@@ -11,7 +11,7 @@ image: capa_velocidade_critica.png
 <html>
 <body>
 
-<p align="justify"> Eixos são um tipo de elemento de máquina que estão presentes em praticamente todas as partes dos equipamentos/máquinas rotativas. Segundo <a href="https://www.amazon.com/Projeto-M%C3%A1quinas-Em-Portuguese-Brasil/dp/8582600224"> Norton </a>  (2013), esses elementos são responsáveis por transmitir movimento de rotação e torque de uma posição a outra ao longo da máquina (ou conjunto de máquinas) a partir de um dispositivo de comando, como um motor elétrico ou de combustão interna. </p>
+<p align="justify"> Dentre os vários elementos de máquinas, os eixos estão presentes em praticamente todas as partes dos equipamentos/máquinas rotativas. Segundo <a href="https://www.amazon.com/Projeto-M%C3%A1quinas-Em-Portuguese-Brasil/dp/8582600224"> Norton </a>  (2013), esses elementos são responsáveis por transmitir movimento de rotação e torque de uma posição a outra ao longo da máquina (ou conjunto de máquinas) a partir de um dispositivo de comando, como um motor elétrico ou de combustão interna. </p>
 
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/DgNJznPqOdntJXxn9f" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DgNJznPqOdntJXxn9f">via GIPHY</a></p>
 
