@@ -226,7 +226,7 @@ $$
 <p align = "center">
 <img src="http://engfrancisco.com/assets/img/Sistema_3_GDL.PNG"></p>
 
-<p align="justify"> Sua equação dinâmica possui a forma:
+<p align="justify"> Sua equação dinâmica, considerando-se $c_1 = c_2 = c_3 = 0$, possui a forma:
 </p>
 
 $$
