@@ -45,7 +45,7 @@ $$
 <img src="http://engfrancisco.com/assets/img/FRF_sem_amortecimento.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/angulo_fase_sem_amortecimento"></p>
+<img src="http://engfrancisco.com/assets/img/angulo_fase_sem_amortecimento.png"></p>
 
 <p align="justify"> É importante notar que, devido à sua construção matemática, a FRF é independente da amplitude do forçamento, sendo esse caracterizado com amplitude unitária. Tal fato será importante ao se trabalhar com sistemas que possuem múltiplos graus de liberdade.
 </p>
@@ -66,7 +66,7 @@ $$
 <img src="http://engfrancisco.com/assets/img/FRF_com_amortecimento.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/angulo_fase_com_amortecimento"></p>
+<img src="http://engfrancisco.com/assets/img/angulo_fase_com_amortecimento.png"></p>
 
 <p align="justify"> Um ponto importante é que a FRF pode ser realizada com a resposta do sistema tanto em deslocamento, como em velocidade e/ou aceleração. Isso é facilitado devido a utilização do domínio da frequência, onde as derivadas/integrais passam a ser apenas multiplicações/divisões pelos termos frequênciais. A figura abaixo exibe as principais formas das FRF's.
 </p>
