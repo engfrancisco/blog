@@ -78,7 +78,7 @@ $$
 
 <p align="justify"><b>Referências:</b>
 
-<p> <a href="https://community.sw.siemens.com/s/article/dynamic-stiffness-compliance-mobility-and-more"></a>
+<p> <a href="https://community.sw.siemens.com/s/article/dynamic-stiffness-compliance-mobility-and-more">https://community.sw.siemens.com/s/article/dynamic-stiffness-compliance-mobility-and-more</a>
 </p>
 
 <p>CLOUGH, R. W.; PENZIEN, J. Dynamics of structures. berkeley. CA: Computers and Structures, 2003.</p>
