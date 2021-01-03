@@ -273,7 +273,7 @@ $$
 <img src="http://engfrancisco.com/assets/img/Modo_1_1.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/Modo_1_2.png"></p>
+<img src="http://engfrancisco.com/assets/img/Segundo_modo_1.png"></p>
 
 <p align = "center">
 <img src="http://engfrancisco.com/assets/img/Modo_1_3.png"></p>
@@ -288,7 +288,7 @@ $$
 <img src="http://engfrancisco.com/assets/img/Modo_2_1.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/Modo_2_2.png"></p>
+<img src="http://engfrancisco.com/assets/img/Segundo_modo_2.png"></p>
 
 <p align = "center">
 <img src="http://engfrancisco.com/assets/img/Modo_2_3.png"></p>
