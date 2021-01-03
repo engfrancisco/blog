@@ -270,13 +270,13 @@ $$
 </p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/modo_1.png"></p>
+<img src="http://engfrancisco.com/assets/img/modo_1_1.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/modo_2.png"></p>
+<img src="http://engfrancisco.com/assets/img/modo_1_2.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/modo_3.png"></p>
+<img src="http://engfrancisco.com/assets/img/modo_1_3.png"></p>
 
 <p align="justify"> Observa-se que as formas modais fornecem o comportamento das massas (estruturas) em determinada frequência (frequências naturais)
 </p>
@@ -285,13 +285,13 @@ $$
 </p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/modo_1_2.png"></p>
+<img src="http://engfrancisco.com/assets/img/modo_2_1.png"></p>
 
 <p align = "center">
 <img src="http://engfrancisco.com/assets/img/modo_2_2.png"></p>
 
 <p align = "center">
-<img src="http://engfrancisco.com/assets/img/modo_3_2.png"></p>
+<img src="http://engfrancisco.com/assets/img/modo_2_3.png"></p>
 
 <p align="justify"> Embora possa não ser intuitivo, o resultado está correto. Observa-se que a frequência natural do primeiro modo é nula. Isso indica que não há movimento relativo entre os corpos, ou seja, todos movem-se simultaneamente. Tal característica indica que o sistema move-se como um corpo rígido. Dessa forma, é possível obter até 6 frequências nulas para corpos rígidos no espaço (3 graus de translação e 3 graus de rotação).
 </p>
