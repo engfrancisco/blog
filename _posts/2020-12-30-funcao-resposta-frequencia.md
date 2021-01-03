@@ -11,7 +11,7 @@ image: FRF_1_capa.png
 <html>
 <body>
 
-<p align="justify"> O comportamento dinâmico dos sistemas mecânicos são de grande importância para o projeto de produtos, verificação da integridade e segurança de equipamentos/estruturas, bem como a quantificação de riscos/falhas associadas à manutenção de componentes. Sua modelagem matemática quase sempre envolve a utilização de muitos (múltiplos) graus de liberdade tornando a análise complexa. Contudo, ao se trabalhar no regime linear, as propriedades desses sistemas complexos podem ser representadas pela soma das respostas de vários sistemas com 1 grau de liberdade (superposição modal).
+<p align="justify"> O comportamento dinâmico dos sistemas mecânicos é de grande importância para o projeto de produtos, verificação da integridade e segurança de equipamentos/estruturas, bem como a quantificação de riscos/falhas associadas à manutenção de componentes. Sua modelagem matemática quase sempre envolve a utilização de muitos (múltiplos) graus de liberdade tornando a análise complexa. Contudo, ao se trabalhar no regime linear, as propriedades desses sistemas complexos podem ser representadas pela soma das respostas de vários sistemas com 1 grau de liberdade (superposição modal).
 </p>
 
 <p align="justify"> Dentre as várias análises que podem ser realizadas, a Função de Resposta em Frequência (FRF) fornece uma avaliação das propriedades estruturais como as frequências naturais, fatores de amortecimento e modos/formas de vibrar. Sendo assim, considere o sistema de um grau de liberdade abaixo:
