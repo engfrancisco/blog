@@ -213,7 +213,7 @@ r_{1}^{2} = \left(1 + \frac{\mu}{2}\right) - \sqrt{\left(1 + \frac{\mu}{2}\right
 \end{equation}
 $$
 
-<p align="justify"> Analogamente, tem-se r<sub>2</sub> = 1,105. Ou seja, os picos ocorrem em valores 90,5% abaixo e 10,5% acima da frequência de ressonância do sistema primário.
+<p align="justify"> Analogamente, tem-se r<sub>2</sub> = 1,105. Ou seja, o primeiro pico ocorrerá em um valor igual a 90,5% da frequência natural do sistema isolado e o segundo pico ocorrerá em um valor 10,5% acima dessa mesma frequência.
 </p>
 
 <p align="justify"> Por fim, calcula-se a rigidez do absorvedor, como segue:
